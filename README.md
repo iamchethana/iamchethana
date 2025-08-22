@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Welcome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chethana%LN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chethana%20LN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer&descSize=16&descAlignY=51"/>
 </p>
 
 <!-- Typing Animation -->
