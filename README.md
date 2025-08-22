@@ -77,6 +77,7 @@ ask_me_about:
 </p>
 
 <!-- Tech Stack Section -->
+<!-- Tech Stack Section -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35" />
@@ -85,7 +86,8 @@ ask_me_about:
   </h2>
 </div>
 
-<table width="150%" align="center">
+<!-- Tech Stack with Categories - Full Width -->
+<table width="100%" align="center">
     <tr>
       <td align="center" width="50%">
         <h3>🌐 Frontend</h3>
