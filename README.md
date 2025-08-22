@@ -85,7 +85,7 @@ ask_me_about:
   </h2>
 </div>
 
-<table width="100%" align="center">
+<table width="150%" align="center">
     <tr>
       <td align="center" width="50%">
         <h3>🌐 Frontend</h3>
