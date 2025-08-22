@@ -17,17 +17,20 @@
 </p>
 
 <!-- About Me Section -->
+<!-- ABOUT ME SECTION -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="35" />
-    About Me 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+    <span style="color: #FF6B6B;">SYSTEM PROFILE</span>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
   </h2>
 </div>
 
-<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-```yaml
+### 🚀 Quick Stats
 ```yaml
 name: Chethana LN
 role: Full Stack Developer
@@ -37,10 +40,25 @@ current_focus:
   - DevOps & Docker
   - Cloud Technologies
 learning: Advanced Flutter & Kubernetes
-collaboration: Open to Flutter projects
+collaboration: Open to Full-Stack projects
 ask_me_about: 
   - Full Stack Development
 ```
+
+### 🎯 Current Objectives
+- 🔭 Working on **Flutter Mobile Applications**
+- 🌱 Learning **Advanced Docker & Kubernetes**
+- 👯 Looking to collaborate on **Open Source Flutter Projects**
+- 🤔 Seeking help with **Cloud Architecture**
+- 💬 Ask me about **Full Stack Development**
+- ⚡ Fun fact: **I debug with coffee and deploy with confidence!**
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzBmZjM3YTM2ZDM4NWNhZDY5OTM1MzFkYjk5NGE1NzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+</div>
 
 <!-- Animated Divider -->
 <p align="center">
