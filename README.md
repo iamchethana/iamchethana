@@ -1,13 +1,13 @@
 
 <!-- Header Section with Animated Welcome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dheeraj%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chethana%LN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer&descSize=16&descAlignY=51"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;I'm+a+DevOps+Engineer;Cloud+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,25 +28,18 @@
 <img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
 
 ```yaml
-apiVersion: v1
-kind: Developer
-metadata:
-  name: Dheeraj Jain
-  labels:
-    role: DevOps Engineer
-    specialization: Cloud Architecture
-spec:
-  expertise:
-    - 🐧 Linux System Administration
-    - ☁️ Multi-Cloud Architecture (Azure, AWS)
-    - 🐳 Containerization & Orchestration
-    - 🔧 Infrastructure as Code (Terraform, Ansible)
-    - 🔄 CI/CD Pipeline Design
-  currentFocus:
-    - 🔍 Exploring: Golang & Advanced DevOps
-    - 🌐 Networking: DNS & Self-hosted Solutions  
-    - 🗄️ Database: Design & Implementation
-    - 🔐 Security: DevSecOps Practices
+```yaml
+name: Chethana LN
+role: Full Stack Developer
+location: India
+current_focus: 
+  - Flutter Development
+  - DevOps & Docker
+  - Cloud Technologies
+learning: Advanced Flutter & Kubernetes
+collaboration: Open to Flutter projects
+ask_me_about: 
+  - Full Stack Development
 ```
 
 <!-- Animated Divider -->
@@ -64,36 +57,27 @@ spec:
 </div>
 
 <!-- Tech Stack with Categories -->
-<table align="center">
-  <tr>
-    <td align="center" width="260">
-      <h3>💻 Programming</h3>
-      <img src="https://skillicons.dev/icons?i=cpp,go,bash,python,js,nodejs" />
-    </td>
-    <td align="center" width="260">
-      <h3>∞ DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
-    </td>
-    <td align="center" width="260">
-      <h3>☁️ Cloud Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=azure,aws,openstack,vercel,netlify" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="260">
-      <h3>🌐 Web Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vercel,cloudflare" />
-    </td>
-    <td align="center" width="260">
-      <h3>🔧 Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" />
-    </td>
-    <td align="center" width="260">
-      <h3>🎨 IDE</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps" />
-    </td>
-  </tr>
-</table>
+<table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🌐 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>⚙️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,go,django&theme=dark&perline=4" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🗄️ Database</h3>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,sqlite&theme=dark&perline=4" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🛠️ Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,selenium&theme=dark&perline=4" />
+    </tr>
+  </table>
 
 <!-- Snake Animation -->
 <p align="center">
