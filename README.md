@@ -87,25 +87,26 @@ ask_me_about:
 <!-- Tech Stack with Categories -->
 <table width="100%" align="center">
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark&perline=10" />
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h3>⚙️ Backend</h3>
         <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,go,django&theme=dark&perline=10" />
       </td>
-      <td align="center" width="25%">
+    </tr>
+    <tr>
+      <td align="center" width="50%">
         <h3>🗄️ Database</h3>
         <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,sqlite&theme=dark&perline=10" />
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h3>🛠️ Tools</h3>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,selenium&theme=dark&perline=10" />
       </td>
     </tr>
 </table>
-
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
