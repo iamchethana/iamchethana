@@ -31,23 +31,21 @@
 
 ### 🚀 Quick Stats
 ```yaml
-name: Dilip S Chakravarthi
-role: Full Stack Developer
+name: Chethana LN
+role: Full-Stack Developer
 location: India
 current_focus: 
   - Flutter Development
   - DevOps & Docker
   - Cloud Technologies
 learning: Advanced Flutter & Kubernetes
-collaboration: Open to Flutter projects
+collaboration: Open to Full-Stack projects
 ask_me_about: 
-  - Full Stack Development
-  - Mobile App Development
-  - DevOps Best Practices
+  - Full-Stack Development
 ```
 
 ### 🎯 Current Objectives
-- 🔭 Working on **Flutter Mobile Applications**
+- 🔭 Working on **Full-Stack Projects**
 - 🌱 Learning **Advanced Docker & Kubernetes**
 - 👯 Looking to collaborate on **Open Source Flutter Projects**
 - 🤔 Seeking help with **Cloud Architecture**
@@ -90,21 +88,21 @@ ask_me_about:
 <!-- Tech Stack with Categories -->
 <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark&perline=4" />
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h3>⚙️ Backend</h3>
         <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,go,django&theme=dark&perline=4" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h3>🗄️ Database</h3>
         <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,sqlite&theme=dark&perline=4" />
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h3>🛠️ Tools</h3>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,selenium&theme=dark&perline=4" />
     </tr>
