@@ -86,7 +86,7 @@ ask_me_about:
 </div>
 
 <!-- Tech Stack with Categories -->
-<table align = "center" width="250">
+<table align = "center" width="500">
     <tr>
       <td align="center" width="250">
         <h3>🌐 Frontend</h3>
