@@ -31,7 +31,7 @@
 
 ### 🚀 Quick Stats
 ```yaml
-name: Chethana LN
+name: Dilip S Chakravarthi
 role: Full Stack Developer
 location: India
 current_focus: 
@@ -39,15 +39,17 @@ current_focus:
   - DevOps & Docker
   - Cloud Technologies
 learning: Advanced Flutter & Kubernetes
-collaboration: Open to Full-Stack projects
+collaboration: Open to Flutter projects
 ask_me_about: 
   - Full Stack Development
+  - Mobile App Development
+  - DevOps Best Practices
 ```
 
 ### 🎯 Current Objectives
-- 🔭 Working on **Full Stack Websites**
+- 🔭 Working on **Flutter Mobile Applications**
 - 🌱 Learning **Advanced Docker & Kubernetes**
-- 👯 Looking to collaborate on **Open Source Full-Stack Projects**
+- 👯 Looking to collaborate on **Open Source Flutter Projects**
 - 🤔 Seeking help with **Cloud Architecture**
 - 💬 Ask me about **Full Stack Development**
 - ⚡ Fun fact: **I debug with coffee and deploy with confidence!**
@@ -58,6 +60,18 @@ ask_me_about:
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzBmZjM3YTM2ZDM4NWNhZDY5OTM1MzFkYjk5NGE1NzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
 </div>
+
+### 📊 Coding Activity
+```text
+🌅 Morning    ████████░░░░░░░░░░░░░   35%
+🌆 Daytime    ██████████████░░░░░░░   65%
+🌃 Evening    ████████████░░░░░░░░░   55%
+🌙 Night      ██████░░░░░░░░░░░░░░░   25%
+```
+
+</td>
+</tr>
+</table>
 
 <!-- Animated Divider -->
 <p align="center">
