@@ -16,7 +16,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- About Me Section -->
 <!-- ABOUT ME SECTION -->
 <div align="center">
   <h2>
@@ -46,9 +45,9 @@ ask_me_about:
 ```
 
 ### 🎯 Current Objectives
-- 🔭 Working on **Flutter Mobile Applications**
+- 🔭 Working on **Full Stack Websites**
 - 🌱 Learning **Advanced Docker & Kubernetes**
-- 👯 Looking to collaborate on **Open Source Flutter Projects**
+- 👯 Looking to collaborate on **Open Source Full-Stack Projects**
 - 🤔 Seeking help with **Cloud Architecture**
 - 💬 Ask me about **Full Stack Development**
 - ⚡ Fun fact: **I debug with coffee and deploy with confidence!**
@@ -118,23 +117,23 @@ ask_me_about:
 
 <!-- GitHub Stats Cards -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdheerajjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamchethana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchethana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdheerajjain&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamchethana&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamchethana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" width="100%" alt="activity graph" />
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamchethana&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
 </div>
 
 <!-- Animated Divider -->
@@ -152,23 +151,23 @@ ask_me_about:
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/iamdheerajjain" target="_blank">
+  <a href="https://linkedin.com/in/iamchethana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="mailto:djprakul2004@gmail.com" target="_blank">
+  <a href="mailto:chethanasparsha.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   <a href="https://instagram.com/dj_prakul_2004" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="https://github.com/iamdheerajjain" target="_blank">
+  <a href="https://github.com/chethana_sparsha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
 </div>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamdheerajjain&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamchethana&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Footer -->
