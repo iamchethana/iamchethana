@@ -85,28 +85,26 @@ ask_me_about:
   </h2>
 </div>
 
-<!-- Tech Stack with Categories -->
-<table align = "center" width="100%>
+<table width="100%" align="center">
     <tr>
-      <td align="center" width="250">
+      <td align="center" width="25%">
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark&perline=4" />
       </td>
-      <td align="center" width="250">
+      <td align="center" width="25%">
         <h3>⚙️ Backend</h3>
         <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,go,django&theme=dark&perline=4" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="250">
+      <td align="center" width="25%">
         <h3>🗄️ Database</h3>
         <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,sqlite&theme=dark&perline=4" />
       </td>
-      <td align="center" width="250">
+      <td align="center" width="25%">
         <h3>🛠️ Tools</h3>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,selenium&theme=dark&perline=4" />
+      </td>
     </tr>
-  </table>
+</table>
 
 <!-- Snake Animation -->
 <p align="center">
