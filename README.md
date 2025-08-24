@@ -141,11 +141,6 @@ ask_me_about:
   </table>
 </div>
 
-<!-- Alternative Language Stats (if above doesn't work) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchethana&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=70A5FD&text_color=ffffff" alt="Language Stats"/>
-</div>
-
 <!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamchethana&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=ffffff" />
