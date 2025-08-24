@@ -129,16 +129,10 @@ ask_me_about:
 
 <!-- GitHub Stats Cards - Fixed Language Stats -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
         <img height="195px" src="https://github-readme-stats.vercel.app/api?username=iamchethana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=ffffff&border_radius=10"/>
       </td>
       <td>
         <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchethana&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=ffffff&border_radius=10&card_width=300"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- GitHub Streak Stats -->
