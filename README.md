@@ -89,28 +89,27 @@ ask_me_about:
     <tr>
       <td align="center" width="50%">
         <h3>🌐 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark&perline=10" />
       </td>
       <td align="center" width="50%">
         <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,go,django&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,go,django&theme=dark&perline=10" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <h3>🗄️ Database</h3>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,sqlite&theme=dark&perline=3" />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,sqlite&theme=dark&perline=10" />
       </td>
       <td align="center" width="50%">
         <h3>🛠️ Tools</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,selenium&theme=dark&perline=3" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,selenium&theme=dark&perline=10" />
       </td>
     </tr>
 </table>
-
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
 <!-- Animated Divider -->
@@ -148,7 +147,6 @@ ask_me_about:
   <img src="https://github-profile-trophy.vercel.app/?username=iamchethana&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
 </div>
 
-
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -167,7 +165,7 @@ ask_me_about:
   <a href="https://linkedin.com/in/iamchethana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chethanasparsha@gmail.com" target="_blank">
+  <a href="mailto:chethanasparsha.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   <a href="https://instagram.com/chethana_sparsha" target="_blank">
@@ -187,3 +185,4 @@ ask_me_about:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 </p>
+</div>
