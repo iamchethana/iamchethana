@@ -41,6 +41,7 @@ learning: Advanced Flutter & Kubernetes
 collaboration: Open to Full-Stack projects
 ask_me_about: 
   - Full-Stack Development
+  - Flutter Development
 ```
 
 ### 🎯 Current Objectives
