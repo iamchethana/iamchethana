@@ -127,23 +127,15 @@ ask_me_about:
   </h2>
 </div>
 
-<!-- GitHub Stats Cards - Fixed Language Stats -->
+<!-- GitHub Stats Cards -->
 <div align="center">
-        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=iamchethana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=ffffff&border_radius=10"/>
-      </td>
-      <td>
-        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchethana&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=ffffff&border_radius=10&card_width=300"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamchethana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchethana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamchethana&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=ffffff" />
-</div>
-
-<!-- Detailed Language Stats using different service -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamchethana&theme=tokyonight" alt="Top Languages by Commits"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamchethana&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamchethana&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -155,6 +147,7 @@ ask_me_about:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamchethana&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
 </div>
+
 
 <!-- Animated Divider -->
 <p align="center">
