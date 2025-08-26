@@ -141,11 +141,6 @@ ask_me_about:
   </table>
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamchethana&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=ffffff" />
-</div>
-
 <!-- GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamchethana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" width="100%" alt="activity graph" />
